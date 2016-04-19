@@ -1,7 +1,7 @@
 # Maven-Spock-Groovy
-Opsætning af et Maven projekt til at bruge Spock og Groovy. Viser også hvordan et
+Opsætning af et Maven projekt til at bruge Spock og Groovy. Viser både hvordan et
 interface til en ekstern service kan pakkes ind, så det bliver nemmere at erstatte med
-en mock til testformål.
+en mock til testformål, og hvordan en lille http-server hurtigt sættes op
 
 Er testet med Maven v.3.2.1
 
