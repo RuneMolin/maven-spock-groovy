@@ -1,6 +1,8 @@
 package dk.csc
 
 /**
+ * Facade til en ekstern service.
+ 
  * @author Rune Molin, rmo@nine.dk
  */
 interface HelloServiceInterface {

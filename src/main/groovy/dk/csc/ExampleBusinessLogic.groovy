@@ -3,6 +3,8 @@ package dk.csc
 import groovy.json.JsonSlurper
 
 /**
+ * Eksempel på noget forretningslogik, der benytter en ekstern service
+
  * @author Rune Molin, rmo@nine.dk
  */
 class ExampleBusinessLogic {
